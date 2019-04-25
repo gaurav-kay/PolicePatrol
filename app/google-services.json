@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "579048246632",
+    "firebase_url": "https://rocket-build-hackathon.firebaseio.com",
+    "project_id": "rocket-build-hackathon",
+    "storage_bucket": "rocket-build-hackathon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579048246632:android:49cb0804565dbf5f",
+        "android_client_info": {
+          "package_name": "com.example.superintendentapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579048246632-duosklfr0ufnteeg7u97tr8r61ij0fv7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.superintendentapp",
+            "certificate_hash": "7d2ce1e6c908bd8619b73b8101ad41147772af9f"
+          }
+        },
+        {
+          "client_id": "579048246632-i5ld0vfjes16mh2ivdl1l1gq6a67lm6l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUkGJmmM1DnH7J1Zsk9WBVrPbHPmKatkQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579048246632-i5ld0vfjes16mh2ivdl1l1gq6a67lm6l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
